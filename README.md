@@ -1,4 +1,4 @@
-uri-element [![Bower version](https://badge.fury.io/bo/uri-element.svg)](http://badge.fury.io/bo/uri-element) [![Travis state](https://travis-ci.org/Collaborne/uri-element.svg?branch=master)](https://travis-ci.org/Collaborne/uri-element)
+uri-element [![Bower version](https://badge.fury.io/bo/uri-element.svg)](http://badge.fury.io/bo/uri-element)
 =========
 
 The `uri-element` provides access to the [URI.js](http://medialize.github.io/URI.js/) library via HTML imports. This makes it possible
