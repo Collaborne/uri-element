@@ -1,0 +1,19 @@
+{
+  "name": "uri-element",
+  "authors": [
+    "collaborne"
+  ],
+  "description": "A wrapper element for using URI.js",
+  "main": "uri-import.html",
+  "keywords": [
+    "web-components"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/Collaborne/uri-element",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "urijs": "uri.js#^1.17.1"
+  }
+}
