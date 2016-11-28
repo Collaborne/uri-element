@@ -6,7 +6,7 @@ to safely include the library from multiple web components, and have only one co
 
 ## Installation
 
-`bower install paper-search`
+`bower install uri-element`
 
 ## Usage
 
